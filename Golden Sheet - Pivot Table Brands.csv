@@ -1,0 +1,335 @@
+,COUNTA of Activity ID,Platform,,,,,,,,
+,Main Brand,amazon_prime,instagram,netflix,standalone,tiktok,youtube_shorts,Grand Total,,
+,,,174,,42,,,216,,
+1,Estée Lauder,,,,40,133,,173,netflix,GB
+2,eBay,,35,,25,35,1,96,"instagram, standalone","US, GB, DE, IE, BR, PH, AE, FR"
+3,Nike,,3,,10,59,,72,"tiktok, standalone","US, GB"
+4,DIRECTV,,19,,10,43,,72,"instagram, standalone, tiktok, youtube_shorts","GB, DE, US, CA"
+5,Skyscanner,,42,,4,22,,68,"instagram, tiktok, standalone","IT, GB, DE, US"
+6,Under Armour,,27,,16,23,,66,"tiktok, instagram, standalone",US
+7,Philips,,24,,12,25,,61,"instagram, tiktok, standalone","US, GB, BR"
+8,Viator,,18,,19,18,3,58,"tiktok, instagram, standalone","GB, FR, DE"
+9,Vodafone,,16,,15,17,,48,"tiktok, standalone, instagram","GB, US, DE"
+10,T-Mobile,2,,2,34,,,38,"tiktok, youtube_shorts, instagram, standalone","US, GB"
+11,Hinge,,7,,9,18,,34,"tiktok, standalone, instagram",GB
+12,Mozilla Firefox,,15,,5,13,,33,"amazon_prime, standalone, netflix","GB, US"
+13,Waymo,,17,,2,12,,31,"tiktok, instagram, standalone","US, GB, AU, DE"
+14,Amazon,,,,6,24,,30,"instagram, tiktok, standalone","US, DE"
+15,PetSmart,,12,,11,6,,29,"instagram, tiktok, standalone",US
+16,MAC Cosmetics,,4,,3,22,,29,"standalone, tiktok",US
+17,Tango,,,,6,20,,26,"standalone, tiktok, instagram","US, CA"
+18,Strava,,10,,2,10,3,25,"tiktok, standalone, instagram","US, CA"
+19,Spotify,,2,,7,14,,23,"standalone, tiktok",GB
+20,Sainsbury’s,,11,,4,6,,21,"youtube_shorts, instagram, tiktok, standalone",US
+21,Reebok,,6,,3,12,,21,"tiktok, standalone, instagram",US
+22,Quest Nutrition,,2,,16,2,,20,"tiktok, instagram, standalone",GB
+23,NINJA,,7,,7,6,,20,"tiktok, standalone, instagram","GB, US"
+24,eBay.de,,8,,4,8,,20,"standalone, instagram, tiktok",US
+25,Argos,,10,,3,7,,20,"standalone, tiktok, instagram",GB
+26,Lynx,,4,,3,12,,19,"tiktok, standalone, instagram",DE
+27,American Eagle,,7,,4,8,,19,"tiktok, instagram, standalone",GB
+28,Shiseido,,10,,3,4,,17,"tiktok, standalone, instagram",GB
+29,Vodafone Business,,5,,4,6,,15,"standalone, tiktok, instagram",US
+30,Raid Essentials,,,,3,11,1,15,"standalone, tiktok, instagram",US
+31,Neutrogena,,,,2,13,,15,"instagram, standalone, tiktok",GB
+32,Habitat,,10,,3,2,,15,"youtube_shorts, standalone, tiktok","GB, US"
+33,Zurich,,11,,3,,,14,"tiktok, standalone",US
+34,Heinz,,4,,3,6,,13,"instagram, tiktok, standalone",GB
+35,Chime,,,,2,11,,13,"instagram, standalone","AU, DE, GB, IT, ES"
+36,Just Eat,,7,,1,4,,12,"tiktok, standalone, instagram",GB
+37,Amazon Astro for Business,,5,,2,5,,12,"tiktok, standalone",US
+38,VCA Animal Hospitals,,10,,1,,,11,"instagram, tiktok, standalone",GB
+39,Suno,,5,,1,5,,11,"instagram, standalone, tiktok",US
+40,HP,,,,1,5,5,11,"instagram, standalone",US
+41,Fakespot,,6,,1,4,,11,"tiktok, instagram, standalone",US
+42,Clinique Smart Clinical Repair Serum,,10,,1,,,11,"youtube_shorts, tiktok, standalone",US
+43,Claude by Anthropic,,10,,1,,,11,"instagram, tiktok, standalone",US
+44,Amazon Hub,,10,,1,,,11,"instagram, standalone",US
+45,Philips One Blade,,,,2,8,,10,"instagram, standalone",US
+46,Oatly,,6,,1,3,,10,"instagram, standalone","US, CA"
+47,Microsoft Surface,,,,1,9,,10,"tiktok, standalone",GB
+48,Kraken,,,,2,8,,10,"instagram, tiktok, standalone",US
+49,Call of Duty: Warzone Mobile,,,,2,8,,10,"tiktok, standalone",US
+50,Atida,,8,,2,,,10,"tiktok, standalone","IT, US"
+51,Smirnoff ICE,,8,,1,,,9,"tiktok, standalone","GB, DE"
+52,Sesame Workshop,,8,,1,,,9,"instagram, standalone","FR, ES"
+53,Nurtec ODT,,5,,4,,,9,"instagram, standalone",GB
+54,Make Up Forever,,,,1,8,,9,"instagram, standalone",US
+55,Make Up For Ever,,,,3,6,,9,"instagram, standalone",US
+56,Listerine,,,,2,7,,9,"tiktok, standalone",US
+57,Coca Cola,,1,,6,2,,9,"standalone, tiktok",US
+58,Clinique,,,,3,6,,9,"tiktok, standalone",US
+59,Aveeno Baby,,8,,1,,,9,"standalone, instagram, tiktok","ES, IT, GB"
+60,AlUla,,8,,1,,,9,"tiktok, standalone","GB, US"
+61,Turo,,3,,3,2,,8,"instagram, standalone",US
+62,Similac,,6,,2,,,8,"instagram, standalone","GB, DE, US"
+63,Saudi Green Initiative,,7,,1,,,8,"standalone, instagram, tiktok",US
+64,Samsung Galaxy,,3,,2,3,,8,"instagram, standalone",US
+65,Lancôme,,,,3,5,,8,"instagram, standalone","US, DE, GB"
+66,H&M,,,,6,2,,8,"tiktok, standalone, instagram",GB
+67,Feria,,,,3,5,,8,"tiktok, standalone",US
+68,eBay Re-Store,,3,,2,3,,8,"standalone, tiktok","DE, US"
+69,Delta Air Lines,,,,1,7,,8,"tiktok, standalone",US
+70,Vitabiotics,,6,,1,,,7,"tiktok, standalone, instagram",DE
+71,Twinings Sparkling Tea,,,,1,6,,7,"tiktok, standalone",US
+72,Twinings Sleep Tea,,3,,1,3,,7,"instagram, standalone",GB
+73,Tu Clothing,,6,,1,,,7,"tiktok, standalone",GB
+74,Robinsons,,,,1,6,,7,"tiktok, instagram, standalone",GB
+75,Pokémon GO,,,,3,4,,7,"instagram, standalone",GB
+76,Pepcid,,3,,1,3,,7,"tiktok, standalone",GB
+77,OGX,,,,1,6,,7,"tiktok, standalone","DE, GB"
+78,Nexcare,,3,,1,3,,7,"instagram, tiktok, standalone",US
+79,Neutrogena Collagen Bank,,3,,1,3,,7,"tiktok, standalone",US
+80,Mozilla,,2,,3,2,,7,"tiktok, instagram, standalone",US
+81,Metro by T-Mobile,,,,7,,,7,"instagram, tiktok, standalone",US
+82,HelloFresh,,3,,1,3,,7,"tiktok, standalone, instagram",DE
+83,Heineken,,6,,1,,,7,standalone,US
+84,Google Pixel,,3,,4,,,7,"instagram, tiktok, standalone",GB
+85,Google Bard,,2,,2,3,,7,"instagram, standalone","US, GB"
+86,Firehouse Subs,,5,,1,1,,7,"instagram, standalone",GB
+87,E.L.F Cosmetics,,,,2,5,,7,"tiktok, standalone, instagram",GB
+88,De Beers Jewellers,,6,,1,,,7,"instagram, tiktok, standalone",US
+89,Cricket Wireless,,4,,1,2,,7,"tiktok, standalone",US
+90,Wayfair,,,,6,,,6,"instagram, standalone","US, GB"
+91,Tu,,3,,1,2,,6,"tiktok, instagram, standalone",US
+92,The United States,,,,6,,,6,standalone,"DE, GB"
+93,Taster,,,,2,4,,6,"tiktok, instagram, standalone",GB
+94,Phillips,,4,,2,,,6,standalone,"GB, AU, SG, US"
+95,Microsoft Copilot,,2,,3,1,,6,"standalone, tiktok","GB, US"
+96,MeAmora,,2,,2,2,,6,"instagram, standalone",GB
+97,McDonald's,1,,,5,,,6,"instagram, standalone, tiktok",US
+98,Malaysia,,,,6,,,6,"tiktok, standalone, instagram",GB
+99,Lee Kum Kee,,3,,2,1,,6,"amazon_prime, standalone","US, AU"
+100,Jet2 Holidays,,,,1,5,,6,standalone,"DE, SG"
+101,J2O,,,,2,4,,6,"tiktok, standalone, instagram",GB
+102,Hublot,,,,6,,,6,"tiktok, standalone",GB
+103,Experian,,5,,1,,,6,"standalone, tiktok",GB
+104,Every Man Jack,,,,1,5,,6,standalone,US
+105,Disney,,3,,1,2,,6,"instagram, standalone",US
+106,Billington's,,5,,1,,,6,"tiktok, standalone","US, CA"
+107,Android,,,,2,4,,6,"tiktok, instagram, standalone",GB
+108,Airbnb,,,,6,,,6,"instagram, standalone",GB
+109,Zyrtec,,1,,1,3,,5,"standalone, tiktok",GB
+110,Zappos,,4,,1,,,5,standalone,"AU, US"
+111,Twitch,,,,5,,,5,"instagram, tiktok, standalone",US
+112,Sure,,2,,1,2,,5,"instagram, standalone",US
+113,Standard Chartered,,,,5,,,5,standalone,US
+114,Soundcore,,,,1,4,,5,"instagram, tiktok, standalone",GB
+115,Samsung,,,,5,,,5,standalone,"HK, IN"
+116,Salmoiraghi & Viganò,,,,5,,,5,"tiktok, standalone",US
+117,Philips Latte Go,,4,,1,,,5,standalone,"DE, IT"
+118,Paco Rabanne,,2,,1,2,,5,standalone,IT
+119,Nielsen-Massey,,4,,1,,,5,"instagram, standalone",GB
+120,Kohls,,4,,1,,,5,"instagram, tiktok, standalone",GB
+121,Intuit Turbo Tax,,,,5,,,5,"instagram, standalone",GB
+122,Inch's Cider,,4,,1,,,5,"instagram, standalone",US
+123,Hyundai,,,,5,,,5,standalone,US
+124,Hitched,,4,,1,,,5,"instagram, standalone",GB
+125,Herbal Essences,,,,1,4,,5,standalone,"IT, ES"
+126,Grundig,,4,,1,,,5,"instagram, standalone",GB
+127,Frontline,,4,,1,,,5,"tiktok, standalone",US
+128,Firefox,,2,,1,2,,5,"instagram, standalone","IT, ES"
+129,Eve Sleep,,4,,1,,,5,"instagram, standalone",US
+130,eBay Refurbished,,4,,1,,,5,"tiktok, instagram, standalone",DE
+131,Costa Coffee,,1,,2,2,,5,"instagram, standalone",GB
+132,Copilot,,,,5,,,5,"instagram, standalone",US
+133,Chivas Regal,,4,,1,,,5,"instagram, standalone, tiktok",GB
+134,Captain Morgan,,4,,1,,,5,standalone,US
+135,Bumble and bumble.,,,,1,4,,5,"instagram, standalone",AU
+136,Bobbi Brown,,,,1,4,,5,"instagram, standalone",GB
+137,Bang & Olufsen,,4,,1,,,5,"tiktok, standalone",US
+138,Baileys Chocolate,,4,,1,,,5,"tiktok, standalone",US
+,AWS,,,,5,,,5,"instagram, standalone","GB, DE, US"
+,東芝,,,,4,,,4,"instagram, standalone",GB
+,日本HP,,,,4,,,4,standalone,"AU, US"
+,レッドブル,,,,4,,,4,standalone,JP
+,リーバイス,,,,4,,,4,standalone,JP
+,ヤマダ電機,,,,4,,,4,standalone,JP
+,メイベリン ニューヨーク,,,,4,,,4,standalone,JP
+,ミニ,,,,4,,,4,standalone,JP
+,マイクロソフト サーフェス,,,,4,,,4,standalone,JP
+,ホンダ,,,,4,,,4,standalone,JP
+,ビビゴ,,,,4,,,4,standalone,JP
+,ピッコマ,,,,4,,,4,standalone,JP
+,はごろも CarbOFF,,,,4,,,4,standalone,JP
+,ナノックス,,,,4,,,4,standalone,JP
+,デル・テクノロジーズ,,,,4,,,4,standalone,JP
+,ディオール,,,,4,,,4,standalone,JP
+,ダイソン,,,,4,,,4,standalone,JP
+,スバル,,,,4,,,4,standalone,JP
+,スズキ,,,,4,,,4,standalone,JP
+,シェラトンホテル,,,,4,,,4,standalone,JP
+,グランドセイコー,,,,4,,,4,standalone,JP
+,エアビーアンドビー,,,,4,,,4,standalone,JP
+,イケア,,,,4,,,4,standalone,JP
+,い・ろ・は・す,,,,4,,,4,standalone,JP
+,アップル,,,,4,,,4,standalone,JP
+,한국타이어,,,,4,,,4,standalone,JP
+,토레타!,,,,4,,,4,standalone,JP
+,크러쉬,,,,4,,,4,standalone,KR
+,코카콜라,,,,4,,,4,standalone,KR
+,컴포트잇츠이너프,,,,4,,,4,standalone,KR
+,에어비앤비,,,,4,,,4,standalone,KR
+,애플 아이폰,,,,4,,,4,standalone,KR
+,아이오닉,,,,4,,,4,standalone,KR
+,설화수,,,,4,,,4,standalone,KR
+,샤넬,,,,4,,,4,standalone,KR
+,삼성 비스포크,,,,4,,,4,standalone,KR
+,삼성 갤럭시북,,,,4,,,4,standalone,KR
+,삼성 갤럭시,,,,4,,,4,standalone,KR
+,블랙야크,,,,4,,,4,standalone,KR
+,메이플스토리,,,,4,,,4,standalone,KR
+,맥심,,,,4,,,4,standalone,KR
+,마비노기,,,,4,,,4,standalone,KR
+,로보락,,,,4,,,4,standalone,KR
+,대한항공,,,,4,,,4,standalone,KR
+,나혼자만 레벨업: 어라이즈,,,,4,,,4,standalone,KR
+,나이키 조던,,,,4,,,4,standalone,KR
+,기아 타스만,,,,4,,,4,standalone,KR
+,기아 스포티지,,,,4,,,4,standalone,KR
+,Youi,,,,4,,,4,standalone,KR
+,Woolworths,,,,4,,,4,standalone,KR
+,Viking Cruises,,,,4,,,4,standalone,AU
+,USJ,,,,4,,,4,standalone,AU
+,Tylenol,,3,,1,,,4,standalone,"AU, NZ"
+,Türkiye,,,,4,,,4,standalone,JP
+,Telstra,,,,4,,,4,"instagram, standalone",US
+,Sleeping Duck,,,,4,,,4,standalone,"JP, US, FR"
+,Škoda,,,,4,,,4,standalone,AU
+,Red Rooster,,,,4,,,4,standalone,AU
+,Red Bull,,,,4,,,4,standalone,IT
+,Qantas,,,,4,,,4,standalone,AU
+,Peugeot,,,,4,,,4,standalone,AU
+,Omegor,,,,4,,,4,standalone,AU
+,Old Spice,,,,1,3,,4,standalone,ES
+,NOL 놀,,,,4,,,4,standalone,IT
+,Mitsui & Co.,,,,4,,,4,"tiktok, standalone",US
+,Mcdonald’s,,,,4,,,4,standalone,KR
+,La Mer,,,,2,2,,4,standalone,"DE, FR"
+,KFC,,,,4,,,4,standalone,"FR, ES"
+,Keurig,,,,1,3,,4,"tiktok, standalone","GB, US"
+,K2,,,,4,,,4,standalone,"IT, ES"
+,Jo Malone London,,,,2,2,,4,"tiktok, standalone",US
+,IKEA,,,,4,,,4,standalone,KR
+,Hungry Jack's,,,,4,,,4,"tiktok, standalone","GB, US"
+,Health-Ade,,,,1,3,,4,standalone,AU
+,Guzman Y Gomez,,,,4,,,4,standalone,AU
+,Google Pay,,,,1,3,,4,"tiktok, standalone",US
+,Giorgio Armani,,,,4,,,4,standalone,AU
+,Forty Winks,,,,4,,,4,"tiktok, standalone",GB
+,Ford,,,,3,1,,4,standalone,AU
+,FNBO,,,,4,,,4,standalone,AU
+,First Aid Beauty,,,,1,3,,4,"tiktok, standalone","GB, IT"
+,Fiji,,,,4,,,4,standalone,US
+,Ferrero,,,,4,,,4,"tiktok, standalone",US
+,f’real,,,,1,3,,4,standalone,"US, AU"
+,Dyson,,,,4,,,4,standalone,IT
+,Domino’s Pizza,,,,4,,,4,"tiktok, standalone",US
+,Dior Beauty,,,,4,,,4,standalone,ES
+,DHL,,,,4,,,4,standalone,GB
+,De Bortoli Wines,,,,4,,,4,standalone,AU
+,Danette,,,,4,,,4,standalone,"US, ZA"
+,CoorDown,,,,2,1,1,4,standalone,AU
+,Commonwealth Bank,,,,4,,,4,standalone,FR
+,Command,,,,4,,,4,"youtube_shorts, standalone, tiktok",US
+,Coke Zero,,,,4,,,4,standalone,AU
+,Coca-Cola,,,,4,,,4,standalone,AU
+,Citroën,,,,4,,,4,standalone,AU
+,Chanel,,,,4,,,4,standalone,IT
+,Cash App,,,,4,,,4,standalone,ES
+,Carnival Cruises,,,,4,,,4,standalone,AU
+,Burger King,,,,4,,,4,standalone,US
+,BURBERRY,,,,4,,,4,standalone,AU
+,Booking.com,,,,4,,,4,standalone,ES
+,Bendigo Bank,,,,4,,,4,standalone,GB
+,ASOS,,,,1,3,,4,standalone,AU
+,Amnesty International,,1,,2,1,,4,standalone,AU
+,amaysim,,,,4,,,4,"tiktok, standalone",GB
+,Air New Zealand,,,,4,,,4,"tiktok, standalone, instagram",GB
+,State Farm,,2,,1,,,3,standalone,AU
+,Rogaine,,,,1,2,,3,standalone,AU
+,Pull&Bear,,,,3,,,3,"instagram, standalone",US
+,Pets at Home,,,,3,,,3,"tiktok, standalone",US
+,OnePlus,,2,,1,,,3,standalone,FR
+,Noble Panacea,,2,,1,,,3,standalone,GB
+,MINI,,,,3,,,3,"instagram, standalone",US
+,Mahou,,,,3,,,3,"instagram, standalone",US
+,Levi’s,,,,3,,,3,standalone,GB
+,KitKat,,,,3,,,3,standalone,ES
+,Jean Paul Gaultier,,,,3,,,3,standalone,DE
+,HSBC,,,,3,,,3,standalone,DE
+,ho. Mobile,,,,3,,,3,standalone,DE
+,Global Action Plan,,1,,2,,,3,standalone,"US, AU"
+,Dermalogica,,,,1,2,,3,standalone,IT
+,Bombay Sapphire,,,,3,,,3,"standalone, instagram",GB
+,Badoit Bulles de Fruits,,,,3,,,3,"tiktok, standalone",US
+,Avast,,2,,1,,,3,standalone,GB
+,American Express,,,,3,,,3,standalone,FR
+,Adobe Acrobat,,,,3,,,3,"instagram, standalone",US
+,Yves Saint Laurent,,,,2,,,2,standalone,IT
+,Workday,,,,2,,,2,standalone,"GB, FR"
+,Walking 4 Hope,,1,,1,,,2,standalone,US
+,Voltaduo,,,,2,,,2,standalone,AU
+,Unobravo,,,,2,,,2,"instagram, standalone",GB
+,Unieuro,,,,2,,,2,standalone,ES
+,Uber,,,,2,,,2,standalone,IT
+,Transitions,,,,2,,,2,standalone,IT
+,Toyota,,,,2,,,2,standalone,CA
+,T-Mobile Home Internet,,,,2,,,2,standalone,IT
+,Sky,,,,2,,,2,standalone,GB
+,Secret Whole Body,,,,1,1,,2,standalone,US
+,Secret Clinical Strength,,,,1,1,,2,standalone,GB
+,Scotland,,,,2,,,2,"tiktok, standalone",US
+,RIMOWA,,,,2,,,2,"tiktok, standalone",US
+,Reckitt Reflex,,,,2,,,2,standalone,"DE, FR"
+,Range Rover Sport,,,,2,,,2,standalone,US
+,Qatar,,,,2,,,2,standalone,ES
+,PopCorners,,,,1,1,,2,standalone,CA
+,Persol,,,,2,,,2,standalone,DE
+,OnePlus Buds Pro 3,,2,,,,,2,"tiktok, standalone",AU
+,NatWest,,,,2,,,2,standalone,IT
+,Monkey Shoulder,,1,,1,,,2,instagram,US
+,Medibank,,,,2,,,2,standalone,GB
+,Maybelline New York,,,,2,,,2,"instagram, standalone",GB
+,Mastercard,,,,2,,,2,standalone,AU
+,Macau,,,,2,,,2,standalone,AU
+,Línea Directa,,,,2,,,2,standalone,GB
+,L’Oréal,,,,2,,,2,standalone,US
+,Kuwait Fund,,,,2,,,2,standalone,ES
+,Klarna,,,,2,,,2,standalone,GB
+,JLL,,,,2,,,2,standalone,"AE, DE"
+,Jeep,,,,2,,,2,standalone,GB
+,Japan,,,,2,,,2,standalone,AU
+,IONOS,,,,2,,,2,standalone,ES
+,Intimissimi,,,,2,,,2,standalone,FR
+,Hugo Boss,,,,2,,,2,standalone,FR
+,Hisense,,,,2,,,2,standalone,IT
+,Hill’s,,,,2,,,2,standalone,IT
+,Fuze Tea,,,,2,,,2,standalone,US
+,FUJIFILM,,,,2,,,2,standalone,FR
+,FAGE,,,,2,,,2,standalone,ES
+,Energy Exemplar,,,,2,,,2,standalone,CA
+,Elvive,,,,2,,,2,standalone,GB
+,Electrolux,,,,2,,,2,standalone,"GB, US"
+,Edison,,,,2,,,2,standalone,ES
+,Dolce&Gabbana,,,,2,,,2,standalone,AU
+,Disney+,,,,1,1,,2,standalone,IT
+,Disney Cruise Line,,,,2,,,2,standalone,IT
+,Crown Paints,,,,1,1,,2,"tiktok, standalone",AU
+,Cadbury,,,,1,1,,2,standalone,AU
+,Budget Direct,,,,2,,,2,"tiktok, standalone",GB
+,Birra Messina,,,,2,,,2,"tiktok, standalone",AU
+,Bimby,,,,2,,,2,standalone,AU
+,Bill & Melinda Gates Foundation,,,,2,,,2,standalone,IT
+,Azerbaijan,,,,2,,,2,standalone,IT
+,AVIVA,,,,2,,,2,standalone,GB
+,Audible,,,,2,,,2,standalone,"IN, DE"
+,Atkins,,,,2,,,2,standalone,GB
+,Aquarius,,,,2,,,2,standalone,AU
+,Alfa Romeo,,,,2,,,2,standalone,US
+,ACWA Power,,,,2,,,2,standalone,ES
+,The Price is Right,,,,1,,,1,standalone,ES
+,MAIN BRAND,,,1,,,,1,standalone,DE
+,MAC,,,,1,,,1,standalone,US
+,Guide Dogs,,,,1,,,1,netflix,GB
+,Grand Total,3,820,3,1121,888,14,2849,standalone,US
